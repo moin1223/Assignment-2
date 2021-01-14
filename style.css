@@ -1,0 +1,44 @@
+.header{
+    background-color: #fff0f0;
+}
+
+
+
+
+.card-button{
+    background-color:#9cb53b;
+    color: white;
+    
+}
+.card-price{
+    color: gold;
+}
+.card-image{
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    width: 200px;
+ 
+    
+}
+.Penguin-card{
+    border: 0;
+}
+.Penguin-card-footer{
+    border: 0;
+    background-color: white;
+}
+.card-size{
+   
+    border-radius: 20px;
+    height:500px ;
+    width: 350px;
+
+}
+
+
+.Penguin-card-2{
+    border-radius: 20px;
+    border: 0;
+  
+
+}
